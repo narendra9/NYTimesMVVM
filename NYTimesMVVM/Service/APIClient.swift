@@ -43,7 +43,7 @@ extension APIClient {
     func decodingTask<T: Decodable>(with request: URLRequest, decodingType: T.Type, completionHandler completion: @escaping JSONTaskCompletionHandler) -> URLSessionDataTask {
        
         let task = session.dataTask(with: request) { data, response, error in
-            print ("reponse string :\(String(describing: String(data: data!, encoding: .utf8)))")
+//            print ("reponse string :\(String(describing: String(data: data!, encoding: .utf8)))")
 
             guard let httpResponse = response as? HTTPURLResponse else {
                 completion(nil, .requestFailed)
@@ -67,7 +67,7 @@ extension APIClient {
             }
             
            
-            print ("request string :\(String(describing: String(data:data!, encoding: .utf8)))")
+//            print ("request string :\(String(describing: String(data:data!, encoding: .utf8)))")
             
             
         }
