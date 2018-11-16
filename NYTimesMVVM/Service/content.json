@@ -1,0 +1,1451 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1738,
+    "results": [{
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-house-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "House Election Results: Democrats Take Control",
+        "abstract": "See live U.S. House results and maps.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006186230,
+        "asset_id": 100000006186230,
+        "views": 1,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-square320-v154.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-thumbStandard-v154.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-articleInline-v156.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-sfSpan-v154.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-jumbo-v156.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-superJumbo-v156.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-thumbLarge-v154.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-mediumThreeByTwo210-v154.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-housemap\/election-promo-housemap-mediumThreeByTwo440-v154.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-senate-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "Senate Election Results: Republicans Keep Majority",
+        "abstract": "See live U.S. Senate results and maps.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197592,
+        "asset_id": 100000006197592,
+        "views": 2,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-square320-v147.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-thumbStandard-v147.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-articleInline-v147.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-sfSpan-v147.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-jumbo-v147.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-superJumbo-v147.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-thumbLarge-v147.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-mediumThreeByTwo210-v147.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-senate-map\/election-promo-senate-map-mediumThreeByTwo440-v147.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/08\/us\/shooting-california-thousand-oaks.html",
+        "adx_keywords": "Thousand Oaks, Calif, Shooting (2018);Long, Ian David (d 2018);Borderline Bar and Grill (Thousand Oaks, Calif, Nightclub);Helus, Ronald L (1964-2018);Thousand Oaks (Calif);Bars and Nightclubs",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By JOSE A. DEL REAL, JENNIFER MEDINA and TIM ARANGO",
+        "type": "Article",
+        "title": "California Shooting Kills 12 at Country Music Bar, a Year After Las Vegas",
+        "abstract": "The Borderline, a popular hangout for country music fans, had become a place of solace for dozens of survivors of the Vegas massacre.",
+        "published_date": "2018-11-08",
+        "source": "The New York Times",
+        "id": 100000006204989,
+        "asset_id": 100000006204989,
+        "views": 3,
+        "des_facet": ["THOUSAND OAKS, CALIF, SHOOTING (2018)", "BARS AND NIGHTCLUBS"],
+        "org_facet": ["BORDERLINE BAR AND GRILL (THOUSAND OAKS, CALIF, NIGHTCLUB)"],
+        "per_facet": ["LONG, IAN DAVID (D 2018)", "HELUS, RONALD L (1964-2018)"],
+        "geo_facet": ["THOUSAND OAKS (CALIF)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Victims of the mass shooting in Thousand Oaks, Calif., were remembered Thursday night at a vigil.",
+            "copyright": "Jenna Schoenefeld for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-square320-v3.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-articleInline-v2.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-sfSpan-v2.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-jumbo-v2.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-superJumbo-v2.jpg",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-square640-v3.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/10\/us\/10shooting\/10shooting-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-dashboard-live.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "2018 Midterm Election Results: Live",
+        "abstract": "See full results and maps.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197601,
+        "asset_id": 100000006197601,
+        "views": 4,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-square320-v2.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-articleInline-v2.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-sfSpan-v2.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-jumbo-v2.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-superJumbo-v2.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-mediumThreeByTwo210-v2.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/elections\/elections-promo-image-general\/elections-promo-image-general-mediumThreeByTwo440-v2.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-california-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "California Election Results",
+        "abstract": "See full results and maps from the California midterm elections.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197611,
+        "asset_id": 100000006197611,
+        "views": 5,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-articleInline.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea\/b3ca9c2e5e4759f36a14318040abdb453c4633146d7718cade101da67cfa4dea-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-house-forecast.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "Live Forecast: Who Will Win the House?",
+        "abstract": "Live estimates of House control and seats by party, most likely starting around 7:30 p.m. or 8 p.m. Eastern time.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197595,
+        "asset_id": 100000006197595,
+        "views": 6,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-articleInline.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/06\/us\/elections\/results-house-forecast-static\/results-house-forecast-static-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/08\/opinion\/trump-attorney-general-sessions-unconstitutional.html",
+        "adx_keywords": "Mueller, Robert S III;Trump, Donald J;Whitaker, Matthew G;Justice Department;United States Politics and Government;Constitution (US)",
+        "column": null,
+        "section": "Opinion",
+        "byline": "By NEAL K. KATYAL and GEORGE T. CONWAY III",
+        "type": "Article",
+        "title": "Trump\u2019s Appointment of the Acting Attorney General Is Unconstitutional",
+        "abstract": "The president is evading the requirement to seek the Senate\u2019s advice and consent for the nation\u2019s chief law enforcement officer and the person who will oversee the Mueller investigation. ",
+        "published_date": "2018-11-08",
+        "source": "The New York Times",
+        "id": 100000006205301,
+        "asset_id": 100000006205301,
+        "views": 7,
+        "des_facet": ["UNITED STATES POLITICS AND GOVERNMENT", "CONSTITUTION (US)"],
+        "org_facet": ["JUSTICE DEPARTMENT"],
+        "per_facet": ["MUELLER, ROBERT S III", "TRUMP, DONALD J", "WHITAKER, MATTHEW G"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Matthew Whitaker, named acting attorney general on Wednesday after the forced resignation of Jeff Sessions, was Mr. Sessions's chief of staff.",
+            "copyright": "Charlie Neibergall\/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Kaytal-square320-v2.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-articleInline.jpg",
+                "format": "Normal",
+                "height": 128,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 690,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1379,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Kaytal-square640-v2.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/opinion\/08Kaytal\/08Conway-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/05\/22\/us\/politics\/georgia-primary-abrams-results.html",
+        "adx_keywords": "Abrams, Stacey Y;Georgia;Midterm Elections (2018);Elections, Governors;Blacks;Evans, Stacey Godfrey;Race and Ethnicity",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By JONATHAN MARTIN and ALEXANDER BURNS",
+        "type": "Article",
+        "title": "Stacey Abrams Wins Georgia Democratic Primary for Governor, Making History",
+        "abstract": "Ms. Abrams is the first black woman in the U.S. to be a major party\u2019s nominee for governor. A Democrat, Ms. Abrams will test just how much the state\u2019s conservative politics are shifting.",
+        "published_date": "2018-05-22",
+        "source": "The New York Times",
+        "id": 100000005911830,
+        "asset_id": 100000005911830,
+        "views": 8,
+        "des_facet": ["MIDTERM ELECTIONS (2018)", "BLACKS"],
+        "org_facet": ["ELECTIONS, GOVERNORS", "RACE AND ETHNICITY"],
+        "per_facet": ["ABRAMS, STACEY Y", "EVANS, STACEY GODFREY"],
+        "geo_facet": ["GEORGIA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Stacey Abrams at her election night watch party in Atlanta, after winning the Democratic primary in Georgia on Tuesday.",
+            "copyright": "Melissa Golden for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-square320-v2.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-sfSpan-v2.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-jumbo-v2.jpg",
+                "format": "Jumbo",
+                "height": 682,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-superJumbo-v2.jpg",
+                "format": "superJumbo",
+                "height": 1364,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-square640-v2.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/05\/23\/us\/23abrams-hp\/23abrams-hp-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/11\/us\/california-fires-tracker.html",
+        "adx_keywords": "Wildfires;Fires and Firefighters;California;Sierra Nevada Region (US);Los Angeles (Calif)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By MATTHEW BLOCH, JUGAL K. PATEL and ANJALI SINGHVI",
+        "type": "Interactive",
+        "title": "Maps: Tracking the Spread of the California Fires",
+        "abstract": "Wildfires burned in California near the Sierra Nevada foothills and the Los Angeles shoreline, engulfing about 240,000 acres.",
+        "published_date": "2018-11-11",
+        "source": "The New York Times",
+        "id": 100000006209609,
+        "asset_id": 100000006209609,
+        "views": 9,
+        "des_facet": ["WILDFIRES", "FIRES AND FIREFIGHTERS"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["CALIFORNIA", "SIERRA NEVADA REGION (US)", "LOS ANGELES (CALIF)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-square320-v2.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-thumbStandard-v2.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/california-fires-tracker-promo-1541957051515\/california-fires-tracker-promo-1541957051515-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/us\/elections\/calendar-primary-results.html",
+        "adx_keywords": "Midterm Elections (2018);Primaries and Caucuses;Elections, Senate;Elections, House of Representatives;Elections, Governors;Elections, State Legislature",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By THE NEW YORK TIMES",
+        "type": "Interactive",
+        "title": "2018 Midterm Election Results",
+        "abstract": "A full list of elections for the House and Senate, including which races matter most for congressional control.",
+        "published_date": "2018-01-23",
+        "source": "The New York Times",
+        "id": 100000005695762,
+        "asset_id": 100000005695762,
+        "views": 10,
+        "des_facet": ["MIDTERM ELECTIONS (2018)", "PRIMARIES AND CAUCUSES", "ELECTIONS, SENATE", "ELECTIONS, HOUSE OF REPRESENTATIVES", "ELECTIONS, GOVERNORS", "ELECTIONS, STATE LEGISLATURE"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-square320.png",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-thumbStandard.png",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-articleInline.png",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-sfSpan.png",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-jumbo.png",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-superJumbo.png",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-square640.png",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-mediumThreeByTwo210.png",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/01\/23\/us\/elections\/calendar-primary-results-1516731244428\/calendar-primary-results-1516731244428-mediumThreeByTwo440.png",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-governor-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "Governor Election Results: Democrats Retake Several States",
+        "abstract": "See live governor results and maps.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197599,
+        "asset_id": 100000006197599,
+        "views": 11,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-governor\/election-promo-governor-mediumThreeByTwo210-v120.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/elections\/election-promo-governor\/election-promo-governor-mediumThreeByTwo440-v120.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-georgia-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "Georgia Election Results",
+        "abstract": "See full results and maps from the Georgia midterm elections.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197618,
+        "asset_id": 100000006197618,
+        "views": 12,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-articleInline.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02\/ed3eda0211466838a0a193d144787a81365ebb77428fc4e2b0bdfa2001ff0c02-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/10\/us\/elections\/2018-possible-midterm-recounts-georgia-florida-arizona.html",
+        "adx_keywords": "Elections, Senate;Politics and Government;Senate;Republican Party;Democratic Party",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By SARAH ALMUKHTAR, TROY GRIGGS, ADAM PEARCE and KAREN YOURISH",
+        "type": "Interactive",
+        "title": "See How Close the Races Are in Florida, Georgia and Arizona",
+        "abstract": "The races for Senate and governor may head to a recount or a runoff.",
+        "published_date": "2018-11-10",
+        "source": "The New York Times",
+        "id": 100000006207880,
+        "asset_id": 100000006207880,
+        "views": 13,
+        "des_facet": ["POLITICS AND GOVERNMENT"],
+        "org_facet": ["ELECTIONS, SENATE", "SENATE", "REPUBLICAN PARTY", "DEMOCRATIC PARTY"],
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-square320-v2.png",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-thumbStandard-v2.png",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-articleInline-v2.png",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-sfSpan-v2.png",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-jumbo-v2.png",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-superJumbo-v2.png",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-square640-v3.png",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-mediumThreeByTwo210-v2.png",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/09\/us\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668\/2018-possible-midterm-recounts-georgia-florida-arizona-promo-1541820719668-mediumThreeByTwo440-v2.png",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/06\/us\/elections\/results-florida-elections.html",
+        "adx_keywords": "2018 Election Results;Midterm Elections (2018)",
+        "column": "",
+        "section": "U.S.",
+        "byline": "",
+        "type": "Interactive",
+        "title": "Florida Election Results",
+        "abstract": "See full results and maps from the Florida midterm elections.",
+        "published_date": "2018-11-06",
+        "source": "The New York Times",
+        "id": 100000006197617,
+        "asset_id": 100000006197617,
+        "views": 14,
+        "des_facet": ["MIDTERM ELECTIONS (2018)"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": null,
+            "copyright": null,
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-articleInline.jpg",
+                "format": "Normal",
+                "height": 99,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 536,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 560,
+                "width": 1070
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/05\/us\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739\/984b00bb6a15399f5d1c47bcc9ddc6df540ea97a17b7111da0056224a5432739-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/12\/us\/kyrsten-sinema-arizona-senator.html",
+        "adx_keywords": "Sinema, Kyrsten;Arizona;United States Politics and Government;Democratic Party;Midterm Elections (2018);Elections, Senate;McSally, Martha",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By SIMON ROMERO",
+        "type": "Article",
+        "title": "Kyrsten Sinema Declared Winner in Arizona Senate Race",
+        "abstract": "After a delayed count, Ms. Sinema scored a groundbreaking victory for Democrats in a state that has been a Republican bastion for decades.",
+        "published_date": "2018-11-12",
+        "source": "The New York Times",
+        "id": 100000006210841,
+        "asset_id": 100000006210841,
+        "views": 15,
+        "des_facet": ["UNITED STATES POLITICS AND GOVERNMENT", "MIDTERM ELECTIONS (2018)"],
+        "org_facet": ["DEMOCRATIC PARTY", "ELECTIONS, SENATE"],
+        "per_facet": ["SINEMA, KYRSTEN", "MCSALLY, MARTHA"],
+        "geo_facet": ["ARIZONA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Representative Kyrsten Sinema spoke to supporters after officially winning the state senate race.",
+            "copyright": "Caitlin O'Hara\/Reuters",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/merlin_146770704_3844b0d3-7d9f-459d-9be6-10bd30ef6526-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1366,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-mediumThreeByTwo210-v3.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/us\/politics\/13arizona\/13arizona-mediumThreeByTwo440-v3.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/interactive\/2018\/11\/07\/us\/politics\/how-democrats-took-the-house.html",
+        "adx_keywords": "Democratic Party;Republican Party;Politics and Government;United States Politics and Government;Trump, Donald J;House of Representatives",
+        "column": "",
+        "section": "U.S.",
+        "byline": "By DEREK WATKINS, K.K. REBECCA LAI, LARRY BUCHANAN and KAREN YOURISH",
+        "type": "Interactive",
+        "title": "Sizing Up the 2018 Blue Wave",
+        "abstract": "The shift to the left in the House in the 2018 Midterm elections went well beyond the districts Democrats flipped.",
+        "published_date": "2018-11-07",
+        "source": "The New York Times",
+        "id": 100000006202747,
+        "asset_id": 100000006202747,
+        "views": 16,
+        "des_facet": ["POLITICS AND GOVERNMENT", "UNITED STATES POLITICS AND GOVERNMENT"],
+        "org_facet": ["DEMOCRATIC PARTY", "REPUBLICAN PARTY", "HOUSE OF REPRESENTATIVES"],
+        "per_facet": ["TRUMP, DONALD J"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "",
+            "approved_for_syndication": 0,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-square320-v2.png",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-thumbStandard.png",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-articleInline.png",
+                "format": "Normal",
+                "height": 135,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-sfSpan-v2.png",
+                "format": "Large",
+                "height": 264,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-jumbo.png",
+                "format": "Jumbo",
+                "height": 729,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-superJumbo.png",
+                "format": "superJumbo",
+                "height": 1315,
+                "width": 1846
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-square640-v2.png",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-mediumThreeByTwo210-v2.png",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/07\/us\/politics\/how-the-democrats-took-the-house-1541588374843\/how-the-democrats-took-the-house-1541588374843-mediumThreeByTwo440-v2.png",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/12\/obituaries\/stan-lee-dead.html",
+        "adx_keywords": "Lee, Stan;Deaths (Obituaries);Comic Books and Strips;Marvel Comics;Marvel Entertainment;Cartoons and Cartoonists;Kirby, Jack",
+        "column": "",
+        "section": "Obituaries",
+        "byline": "By JONATHAN KANDELL and ANDY WEBSTER",
+        "type": "Article",
+        "title": "Stan Lee Is Dead at 95; Superhero of Marvel Comics",
+        "abstract": "Mr. Lee helped create Spider-Man, the X-Men, the Fantastic Four, Iron Man and others while overseeing his company\u2019s emergence as a media behemoth.",
+        "published_date": "2018-11-12",
+        "source": "The New York Times",
+        "id": 100000003578388,
+        "asset_id": 100000003578388,
+        "views": 17,
+        "des_facet": ["COMIC BOOKS AND STRIPS"],
+        "org_facet": ["DEATHS (OBITUARIES)", "MARVEL COMICS", "MARVEL ENTERTAINMENT", "CARTOONS AND CARTOONISTS"],
+        "per_facet": ["LEE, STAN", "KIRBY, JACK"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Mr. Lee in 2012 at New York Comic Con. A writer, editor, publisher, Hollywood executive and tireless promoter (of Marvel and of himself), he played a critical role in what comics fans call the medium\u2019s silver age.",
+            "copyright": "Marion Curtis\/STARPIX, via Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/13LEE3-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-articleInline.jpg",
+                "format": "Normal",
+                "height": 285,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/13LEE3-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 1024,
+                "width": 683
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 2048,
+                "width": 1366
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/merlin_62022752_e379f753-4edd-4176-861e-4d1774be87e9-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/13LEE3-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/13LEE3-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/13\/obituaries\/13LEE3\/13LEE3-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/10\/us\/the-california-fires-in-photos.html",
+        "adx_keywords": "Wildfires;Los Angeles (Calif);Malibu (Calif);Photography;your-feed-photojournalism",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By THOMAS FULLER and LANCE BOOTH",
+        "type": "Article",
+        "title": "California Hasn\u2019t Seen Fires Like This: Pictures of a State in Flames",
+        "abstract": "Photographers documented the wildfires ravaging California \u2014 along the palm-fringed shoreline near Los Angeles and the evergreen forests of the Sierra Nevada foothills.",
+        "published_date": "2018-11-10",
+        "source": "The New York Times",
+        "id": 100000006209011,
+        "asset_id": 100000006209011,
+        "views": 18,
+        "des_facet": ["WILDFIRES", "PHOTOGRAPHY", "YOUR-FEED-PHOTOJOURNALISM"],
+        "org_facet": "",
+        "per_facet": "",
+        "geo_facet": ["LOS ANGELES (CALIF)", "MALIBU (CALIF)"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Noah Berger\/Associated Press",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/11fire-scene-fader-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/11fire-scene-fader-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1365,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/11fire-scene-fader-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/11fire-scene-fader-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/11\/us\/politics\/11fire-scene-fader\/merlin_146672658_f845398f-eced-4407-b5c6-5780dbb16ea0-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/08\/us\/politics\/ruth-bader-ginsburg-hospitalized.html",
+        "adx_keywords": "Ginsburg, Ruth Bader;Supreme Court (US);Falls",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By EILEEN SULLIVAN",
+        "type": "Article",
+        "title": "Justice Ruth Bader Ginsburg Hospitalized With 3 Broken Ribs",
+        "abstract": "The justice fell on Wednesday night at the court and went to the hospital overnight, where she is undergoing observation and treatment.",
+        "published_date": "2018-11-08",
+        "source": "The New York Times",
+        "id": 100000006205251,
+        "asset_id": 100000006205251,
+        "views": 19,
+        "des_facet": ["FALLS"],
+        "org_facet": ["SUPREME COURT (US)"],
+        "per_facet": ["GINSBURG, RUTH BADER"],
+        "geo_facet": "",
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Justice Ruth Bader Ginsburg last month at the swearing-in ceremony of Brett M. Kavanaugh. She fell and broke three ribs on Wednesday night.",
+            "copyright": "Tom Brenner for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-square320-v5.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-thumbStandard-v3.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-articleInline-v4.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-sfSpan-v5.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-jumbo-v4.jpg",
+                "format": "Jumbo",
+                "height": 682,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-superJumbo-v4.jpg",
+                "format": "superJumbo",
+                "height": 1365,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-square640-v5.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-mediumThreeByTwo210-v6.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/08\/us\/politics\/08dc-ginsburg\/08dc-ginsburg-mediumThreeByTwo440-v6.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }, {
+        "url": "https:\/\/www.nytimes.com\/2018\/11\/13\/us\/politics\/midterm-results-democratic-gains.html",
+        "adx_keywords": "Midterm Elections (2018);Democratic Party;Republican Party;Elections, House of Representatives;Elections, Senate;State Legislatures;States (US);Politics and Government;United States Politics and Government;Trump, Donald J;California;Arizona",
+        "column": null,
+        "section": "U.S.",
+        "byline": "By ALEXANDER BURNS",
+        "type": "Article",
+        "title": "A Week After the Election, Democratic Gains Grow Stronger",
+        "abstract": "What seemed like a mixed result for Republicans has turned more grim as Democrats continue to pick up seats in the House and statewide gains come into focus.",
+        "published_date": "2018-11-13",
+        "source": "The New York Times",
+        "id": 100000006211269,
+        "asset_id": 100000006211269,
+        "views": 20,
+        "des_facet": ["MIDTERM ELECTIONS (2018)", "STATE LEGISLATURES", "STATES (US)", "POLITICS AND GOVERNMENT"],
+        "org_facet": ["DEMOCRATIC PARTY", "REPUBLICAN PARTY", "ELECTIONS, HOUSE OF REPRESENTATIVES", "ELECTIONS, SENATE", "UNITED STATES POLITICS AND GOVERNMENT"],
+        "per_facet": ["TRUMP, DONALD J"],
+        "geo_facet": ["CALIFORNIA", "ARIZONA"],
+        "media": [{
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Abigail Spanberger, a Democrat, ousted Representative Dave Brat in Virginia. Her victory was part of a Democratic wave that is looking stronger a week removed from the election.",
+            "copyright": "Erin Schaff for The New York Times",
+            "approved_for_syndication": 1,
+            "media-metadata": [{
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-square320.jpg",
+                "format": "square320",
+                "height": 320,
+                "width": 320
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-thumbStandard.jpg",
+                "format": "Standard Thumbnail",
+                "height": 75,
+                "width": 75
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-articleInline.jpg",
+                "format": "Normal",
+                "height": 127,
+                "width": 190
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-sfSpan.jpg",
+                "format": "Large",
+                "height": 263,
+                "width": 395
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-jumbo.jpg",
+                "format": "Jumbo",
+                "height": 683,
+                "width": 1024
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-superJumbo.jpg",
+                "format": "superJumbo",
+                "height": 1365,
+                "width": 2048
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-square640.jpg",
+                "format": "square640",
+                "height": 640,
+                "width": 640
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-mediumThreeByTwo210.jpg",
+                "format": "mediumThreeByTwo210",
+                "height": 140,
+                "width": 210
+            }, {
+                "url": "https:\/\/static01.nyt.com\/images\/2018\/11\/14\/us\/politics\/14midterms1-print\/14midterms1-mediumThreeByTwo440.jpg",
+                "format": "mediumThreeByTwo440",
+                "height": 293,
+                "width": 440
+            }]
+        }]
+    }]
+}
